@@ -15,7 +15,7 @@ Me gusta hacer proyectos claros, paso a paso y bien hechos.
 ## 📂 Proyectos destacados
 ### 🔹 [Red Ferratera](https://github.com/CodeQueenX/RedFerratera)
 Aplicación web dinámica en PHP y MySQL para consultar vías ferratas en España.  
-👉 [Ver demo en portafolio]((https://github.com/CodeQueenX/Portafolio)
+👉 [Ver demo en Portafolio](https://github.com/CodeQueenX/Portafolio)
 
 ## 📬 Contacto
 - Email: **megidorico@gmail.com**  
